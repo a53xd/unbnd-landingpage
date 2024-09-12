@@ -32,8 +32,8 @@ export default function Home() {
           >
             <Image
               className="dark:invert"
-              src="https://nextjs.org/icons/vercel.svg"
-              alt="Vercel logomark"
+              src="https://i.ibb.co/jLdJpYJ/2642038374.png"
+              alt="Twitter logomark"
               width={20}
               height={20}
             />
