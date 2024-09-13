@@ -8,7 +8,7 @@ export default function Home() {
           className="dark:invert"
           src="https://i.ibb.co/R6j0Bqj/Butterfly.png"
           alt="Unbound logo"
-          width={180}
+          width={38}
           height={38}
           priority
         />
