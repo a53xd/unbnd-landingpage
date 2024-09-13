@@ -8,8 +8,8 @@ export default function Home() {
           className="dark:invert"
           src="https://i.ibb.co/R6j0Bqj/Butterfly.png"
           alt="Unbound logo"
-          width={38}
-          height={38}
+          width={18}
+          height={18}
           priority
         />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
